@@ -114,6 +114,8 @@
                                    
                                 </li>
                                 <li class="has-menu-items"><a href="quem-somos.php">quem somos</a>
+
+                                <li class="has-menu-items"><a href="blog.php">blog</a>
                                     
                                 </li>
                                
