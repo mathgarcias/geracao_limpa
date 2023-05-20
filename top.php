@@ -51,7 +51,7 @@
                                             <div class="col-sm-4">
                                                 <div class="topinfo boright">
                                                     <i class="icon-Phone2"></i>
-                                                    <h5>fale conosco</h5>
+                                                    <h5>fale conosco pica das galaxias</h5>
                                                     <h6>(11) 2262-8881</h6>
                                                 </div>
                                             </div>
