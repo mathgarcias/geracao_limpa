@@ -46,9 +46,9 @@
 
                               <li><a href="#tratpiso" data-toggle="tab">Trat Piso <i class="fa fa-angle-right"></i></a></li>
 
-                              <li><a href="#quimacril" data-toggle="tab">Quimacril <i class="fa fa-angle-right"></i></a></li>
+                              <!-- <li><a href="#quimacril" data-toggle="tab">Quimacril <i class="fa fa-angle-right"></i></a></li>
 
-                              <li><a href="#quimacrilmate" data-toggle="tab">Quimacril Mate <i class="fa fa-angle-right"></i></a></li>
+                              <li><a href="#quimacrilmate" data-toggle="tab">Quimacril Mate <i class="fa fa-angle-right"></i></a></li> -->
 
                                     <li><a href="#rockseal" data-toggle="tab">Rockseal <i class="fa fa-angle-right"></i></a></li>
 
