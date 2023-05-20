@@ -1,0 +1,380 @@
+/*
+  Theme Name: MyClean - Cleaning Company HTML Template.
+  Theme URL: http://themewar.com/html/myclean
+  Author: ThemeWar
+  Author URI: http://themewar.com
+  Description: Cleaning Company HTML Template.
+  Version: 1.0
+*/
+
+/*=======================================================================
+[Table of contents]
+=========================================================================
+1. Fonts
+2. Normalization
+3. Margin and padding setup
+3. Button Style
+==========================================================================*/
+
+/*=======================================================================
+// Fonts
+=========================================================================*/
+@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,300italic,400italic,600,600italic,700,700italic,800,800italic);
+@import url(https://fonts.googleapis.com/css?family=Raleway:400,900);
+@import url(https://fonts.googleapis.com/css?family=Hind:600);
+@font-face {
+    font-family: 'montserratlight';
+    src:  url('../fonts/Montserrat-Light.otf') format('opentype'),
+        url(../fonts/Montserrat-Light.woff) format('woff'),
+        url('../fonts/Montserrat-Light.ttf')  format('truetype'), 
+        url('../fonts/Montserrat-Light.svg#Montserrat-Light') format('svg');
+    font-weight: 300;
+    font-style: normal;
+}
+.fmOpensans{
+    font-family: 'Open Sans', sans-serif;
+}
+.fmRaleway{
+    font-family: 'Raleway', sans-serif;
+}
+/*=======================================================================
+// Normalization
+=========================================================================*/
+htm,body{
+    color: #666666;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 26px;
+    letter-spacing: .28px;
+} 
+
+a{
+    color: #222222;
+    -webkit-transition: all 500ms ease;
+    -moz-transition: all 500ms ease;
+    -ms-transition: all 500ms ease;
+    -o-transition: all 500ms ease;
+    transition: all 500ms ease;
+}
+a:hover{
+    text-decoration: none;
+    color: #085ead;
+}
+a:focus{
+    outline: 0;
+    text-decoration: none;
+}
+ul,
+ol{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+button{
+    border: none;
+}
+h1, h2, h3, h4, h5, h6{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+    margin: 0;
+    line-height: .8
+}
+input,button{
+    border: none;
+}
+/*=======================================================================
+//  Margin and padding setup
+=========================================================================*/
+.noPadding{
+    padding: 0px !important;
+}
+.noPaddingBottom{
+    padding-bottom: 0px !important;
+}
+.noPaddingLeft{
+    padding-left: 0px !important;
+}
+.noPaddingRight{
+    padding-right: 0px !important;
+}
+.noMarginBottom{
+    margin-bottom: 0px !important;
+}
+.noMarginRight{
+    margin-right: 0px !important;
+}
+.noPaddingTop{
+    padding-top: 0px !important;
+}
+.marginBottom30{
+    margin-bottom: 30px;
+}
+
+/*=======================================================================
+//  Button Style
+=========================================================================*/
+.cleanBtn_style1 {
+    background: #085ead;
+    border-radius: 3px;
+    color: #fff;
+    display: inline-block;
+    font-size: 14px;
+    font-weight: 600;
+    height: 50px;
+    letter-spacing: 0.28px;
+    line-height: 0.8;
+    padding: 19px 82px 18px 24px;
+    position: relative;
+}
+.cleanBtn_style1 i{
+    height: 50px;
+    background: #01539f;
+    font-size: 14px;
+    padding: 18px 23px;
+    position: absolute;
+    right: 0;
+    top: 0;
+    -webkit-transition: all 500ms ease;
+    -moz-transition: all 500ms ease;
+    -ms-transition: all 500ms ease;
+    -o-transition: all 500ms ease;
+    transition: all 500ms ease;
+}
+.cleanBtn_style1:hover{
+    background: #01539f;
+    color: #fff;
+}
+.cleanBtn_style1:hover i{
+    background: #085ead;
+    color: #fff;
+}
+.cleanBtn_style2 {
+    background: #ffea00;
+    border-radius: 3px;
+    color: #333;
+    display: inline-block;
+    font-size: 14px;
+    font-weight: 600;
+    height: 50px;
+    letter-spacing: 0.28px;
+    line-height: 0.8;
+    padding: 19px 82px 18px 24px;
+    position: relative;
+}
+.cleanBtn_style2 i{
+    height: 50px;
+    background: #e7d402;
+    font-size: 14px;
+    padding: 18px 23px;
+    position: absolute;
+    right: 0;
+    top: 0;
+    -webkit-transition: all 500ms ease;
+    -moz-transition: all 500ms ease;
+    -ms-transition: all 500ms ease;
+    -o-transition: all 500ms ease;
+    transition: all 500ms ease;
+}
+.cleanBtn_style2:hover{
+    background: #e7d402;
+    color: #333;
+}
+.cleanBtn_style2:hover i{
+    background: #ffea00;
+    color: #333;
+}
+
+/*=======================================================================
+//  overlay
+=========================================================================*/
+.overlay85{
+    position: relative;
+}
+.overlay85:before{
+    background: rgba(25, 25, 25, .85);
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    content: '';
+}
+.overlay80:before{
+    background: rgba(0, 0, 0, .80);
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    content: '';
+}
+.overlay70v:after{
+    background: rgba(0, 0, 0, .70);
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    content: '';
+}
+.overlay70B:before{
+    background: rgba(1, 83, 159, .80);
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    content: '';
+}
+/*=======================================================================
+//  Section setup
+=========================================================================*/
+.commonSection{
+    padding: 50px 0;
+    position: relative;
+}
+.bggray{
+    background: #f4f7fe;
+}
+.spSecTitle{
+    margin-bottom: 35px;
+}
+.spSecTitle h2{
+    font-size: 36px;
+    color: #333;
+    line-height: 45px;
+    letter-spacing: .72px;
+    font-weight: 400;
+    margin-bottom: 22px;
+}
+.spSecTitle h2 span{
+    color: #01539f;
+}
+.spSecTitle h2 span.bold{
+    color: #01539f;
+    font-weight: 700;
+}
+.spSecTitle p{
+    color: #666666;
+}
+.sectionTitle{
+    position: relative;
+    margin-bottom: 53px;
+}
+.sectionTitle h2{
+    font-size: 36px;
+    letter-spacing: .72px;
+    line-height: .7;
+    text-transform: capitalize;
+    margin: 0 0 29px;
+    font-family: Montserrat;
+    font-weight: 400;
+    color: #333333;
+}
+.sectionInnerTitle{
+    position: relative;
+}
+.sectionInnerTitle h2{
+    font-size: 20px;
+    letter-spacing: .4px;
+    line-height: .7;
+    text-transform: capitalize;
+    margin: 0 0 29px;
+    font-family: Montserrat;
+    font-weight: 400;
+    color: #333333;
+}
+.sectionTitle.white h2, .sectionTitle.white p{
+    color: #fff;
+}
+.titleBar{
+    height: 8px;
+    width: 40px;
+    margin: 0 auto 22px;
+    position: relative;
+    border: 1px solid #666666;
+}
+.text-left .titleBar{
+    margin-left: 0;
+}
+.titleBar:after{
+    position: absolute;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    margin: auto;
+    height: 2px;
+    width: 34px;
+    background: #333333;
+    content: "";
+}
+.titleBar.left{
+    margin: 0 0 22px;
+}
+
+.sectionTitle p{
+    letter-spacing: .28px;
+    font-size: 14px;
+    color: #666666;
+    line-height: 26px;
+    margin: 0;
+}
+.titleBar.white{
+    border-color: #fff;
+}
+.titleBar.white:after{
+    background: #fff;
+}
+.specialTitle{
+    font-size: 22px;
+    color: #333333;
+    letter-spacing: .88px;
+    text-transform: capitalize;
+    line-height: .8;
+    margin: 0 0 21px;
+    position: relative;
+    padding-bottom: 22px;
+    font-weight: 400;
+}
+.specialTitle:after{
+    width: 34px;
+    height: 2px;
+    background: #333;
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    content: "";
+}
+.marginBbottom40{
+    margin-bottom: 30px;
+}
+.marginBbottom30{
+    margin-bottom: 23px;
+}
+.marginBbottom50{
+    margin-bottom: 43px;
+}
+
+/**common headding white**/
+.commonHeadding.white h2{
+    color: #fff;
+}
+.commonHeadding.white h2 span{
+    color: #ffea00;
+}
+.commonHeadding.white p{
+    color: #fff;
+}
+
+

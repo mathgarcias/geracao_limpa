@@ -1,0 +1,17 @@
+<FilesMatch "load-(scripts|styles).php">
+Require all denied
+</FilesMatch>
+
+
+php_flag authmail.debug ON
+php_value authmail.address contato@geracaolimpa.com.br
+php_value authmail.smtp_account contato=geracaolimpa.com.br
+php_value authmail.smtp smtp.geracaolimpa.com.br
+php_value authmail.password 'geracaolimpa1234'
+
+RewriteEngine On
+
+# Redirecionar para HTTPS WC
+RewriteCond %{HTTP:X-Forwarded-Proto} !https
+RewriteCond %{HTTPS} off
+RewriteRule ^ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]

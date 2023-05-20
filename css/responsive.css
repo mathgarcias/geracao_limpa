@@ -1,0 +1,2060 @@
+@media(min-width:1200px) and (max-width:1400px){
+    /**Home One**/
+    .mainNav ul li{
+        margin-left: 40px;
+    }
+    .revCont,
+    .revBtn{
+        margin-left: 150px;
+    }
+    .iconbox1wrap {
+        padding: 117px 20px 85px 0px;
+    }
+    .servPadding {
+        padding: 0 30px 0 30px;
+    }
+    .iconbox2{
+        padding-right: 15px;
+    }
+    .commonHeadding.inner{
+        padding-right: 0;
+        padding-bottom: 50px;
+    }
+    .middelTeamimg {
+        margin-left: 0;
+        margin-right: 0;
+    }
+    /**Home Two**/
+    .language2 {
+        margin-left: 10px;
+        padding: 22px 15px;
+    }
+    .headtopslogan{
+        margin: 30px 0;
+    }
+    .flowSocial{
+        padding-left: 10px;
+    }
+    .certifi{
+        padding: 22px 15px;
+    }
+    .rev2Cont{
+        margin-right: 130px;
+        margin-left: 130px;
+    }
+    .paq2wrap {
+        padding-left: 70px;
+        padding-right: 40px;
+    }
+    .servicesBooking {
+        padding: 145px 75px 150px 44px;
+    }
+    .callto3acsearch {
+        padding: 0 50px;
+    }
+    .callto3acsearch::after{
+        left: 18px;
+    }
+    .extPaddingRig{
+        padding-right: 0;
+    }
+
+    /**Home3**/
+    .contactWrap {
+        margin: 0 50px;
+        padding: 81px 40px;
+    }
+}
+@media(min-width:1000px) and (max-width:1280px){
+    .revCont, .revBtn {
+        margin-left: 190px;
+    }
+    .singleTeam{
+        width: 33%;
+    }
+    .sintemDec{
+        width: 100%;
+    }
+    .middelTeamimg {
+        margin-left: 0;
+        margin-right: 0;
+    }
+    .calltoacSoc.text-right{
+        text-align: center; 
+    }
+}
+
+
+@media(min-width:991px) and (max-width:1200px){
+    .cleanBtn_style1 {
+        font-size: 14px;
+        padding: 20px 62px 8px 20px;
+    }
+    .mainNav ul li{
+        margin-left: 18px;
+    }
+    .mainNav ul li:first-child{
+        margin-left: 0;
+    }
+    .revCont , .revBtn{
+        margin-left: 210px;
+    }
+    .findform {
+        margin-top: 64px;
+        padding: 0 30px;
+    }
+    .welimg {
+        overflow: hidden;
+        position: relative;
+        width: 100%;
+    }
+    .iconbox1wrap {
+        padding: 117px 50px 85px 50px;
+    }
+    .logo2call, .calltoCont, .calltobtn{
+        text-align: center;
+    }
+    .servPadding {
+        padding: 0 50px 0 50px;
+    }
+    .servicesContact{
+        margin-top: 80px;
+    }
+    .singleTest{
+        padding: 0;
+    }
+    .singleTeam{
+        width: 33%;
+    }
+    .middelTeamimg {
+        margin-left: 0;
+        margin-right: 0;
+    }
+    .sintemDec{
+        width: 100%;
+    }
+    .singlePlan{
+        margin-bottom: 30px;
+    }
+    .brustedby {
+        padding-left: 15px;
+    }
+    .faqaccordion{
+        margin-bottom: 70px; 
+    }
+    .calltoleftMenu ul li{
+        margin-right: 35px;
+    }
+    .calltoleftMenu ul li:last-child{
+        margin-right: 0;
+    }
+    .calltoleftMenu ul li::after{
+        top: 2px;
+    }
+    .twitterFeedwrap {
+        padding-left: 0;
+        padding-right: 0;
+    }
+    .widLink ul{
+        padding-left: 0;
+    }
+    .widLink {
+        padding-left: 15px;
+    }
+    .footer .widget {
+        margin-bottom: 80px;
+    }
+    .tabmarginBottom{
+        margin-bottom:50px
+    }
+
+}
+@media(min-width:1000px) and (max-width:1280px){
+    .language2 {
+        margin-left: 0;
+        padding: 23px 5px;
+    }
+    .headtopslogan{
+        font-size: 11px;
+    }
+    .certifi {
+        padding: 23px 3px;
+    }
+    .icon4Right {
+        padding-left: 0 !important;
+        padding-right: 50px;
+        text-align: right;
+    }
+    .callto3acsearch {
+        padding: 0 25px;
+    }
+    .callto3acsearch::after {
+        height: 194px;
+        left: -40px !important;
+        top: -15px;
+        width: 1px;
+    }
+    .singleFun{
+        margin-right: 0;
+        padding-left:70px;
+    }
+    .singleFun i {
+        left: 20px;
+    }
+    .iconbox4 i {
+        left: 0;
+        position: relative;
+        margin-bottom: 30px;
+    }
+
+}
+
+@media(min-width:991px) and (max-width:1024px){
+    .iconbox1 {
+        padding-right: 0;
+        text-align: center;
+    }
+    .iconbox1 i{
+        position: relative;
+        margin-bottom: 15px;
+    }
+    .iconbox1 h2::after {
+        right: 0;
+        left: 0;
+        margin: auto;
+    }
+    .iconbox2{
+        padding-left: 0;
+        padding-right: 50px;
+        text-align: center;
+    }
+    .iconbox2 h2::after {
+        margin: auto;
+        right: 0;
+    }
+    .iconbox2 i {
+        position: relative;
+        margin-bottom: 22px;
+        display: inline-block;
+    }
+    .sectionTitle {
+        text-align: center;
+    }
+    .titleBar {
+        margin: 0 auto 22px !important;
+        left: 0;
+        right: 0;
+    }
+    .sectionTitle.marginBbottom40{
+        margin-bottom: 50px;
+    }
+    .paqwrap .sectionTitle.marginBbottom40{
+        text-align: left;
+    }
+    .paqwrap .sectionTitle.marginBbottom40 .titleBar.left {
+        margin: 0 0 22px !important;
+    }
+
+    .headerlogmNav{
+        margin-left: 0;
+    }
+    .logonav2{
+        margin: 0;
+    }
+    .header2RightNav ul li {
+        margin-left: 25px;
+    }
+    .header2leftNav ul li {
+        margin-right: 25px;
+    }
+    .tabtextCenter{
+        text-align: center;
+    }
+    .headtopslogan{
+        font-size: 11px;
+    }
+    .language2{
+        padding: 10px 30px;
+    }
+    .headtopslogan{
+        margin: 18px 0;
+    }
+    .slCon_right .rev2Cont {
+        margin-left: -650px;
+        margin-right: 0;
+        width: 422px;
+    }
+    .slCon_left .rev2Cont {
+        margin-left: 200px
+    }
+    .cleanBtn_style1 {
+        font-size: 14px;
+        padding: 19px 60px 18px 24px;
+    }
+    .iconbox4{
+        text-align: center;
+    }
+    .iconbox4 i{
+        left: 0;
+        right: 0;
+        margin: auto;
+        position: relative;
+        margin-bottom: 30px
+    }
+    .iconbox4 h2::after,
+    .iconbox4.icon4Right h2::after{
+        left: 0;
+        right: 0;
+        margin: auto;
+    }
+    .servicesAwesomimg img{
+        width: 100%;
+    }
+    .icon4Right{
+        margin-right: 0;
+    }
+    .paq2wrap, .servicesBooking{
+        padding-left: 145px;
+    }
+    .servicesContact2 textarea{
+        margin-top: 20px;
+    }
+    .callto2cont p{
+        line-height: 40px;
+        margin: 0;
+    }
+    .callto3acsearch{
+        padding: 0;
+    }
+    .extPaddinglef {
+        padding-left: 0;
+    }
+    .logoh3 img{
+        width: 100%;
+    }
+    .mainNav3 ul li{
+        margin: 0 21px;
+    }
+    .home3welimg{
+        text-align: center;
+    }
+    .awesomeSerTab ul li a{
+        font-size: 14px;
+        padding: 12px 27px;
+    }
+    .calToactCont h2{
+        line-height: 30px;
+    }
+    .contactWrap{
+        margin: 0;
+    }
+    .iconbox5{
+        text-align: center;
+    }
+    .iconbox5 h2::after {
+        margin: auto;
+        right: 0;
+    }
+    .extrPaddLeft {
+        padding-left: 15px;
+    }
+    .calToactCont h2{
+        font-size: 25px;
+    }
+    .resTexcenter .sectionTitle.marginBbottom30 {
+        text-align: left;
+    }
+    .resTexcenter .sectionTitle.marginBbottom30 .titleBar.left {
+        margin: 0 0 22px !important;
+    }
+    .calltoacSoc.text-right,
+    .calltoleftMenu{
+        text-align: center; 
+    }
+    .productStyle01{
+        margin-bottom: 60px !important;
+    }
+    .sectionTitle p > br{
+        display: none;
+    }
+    .contactWrap {
+        padding: 82px 30px;
+    }
+    .rev3Cont {
+        padding: 69px 30px;
+        position: relative;
+        left: -60px;
+    }
+
+}
+
+@media(min-width:768px) and (max-width:990px){
+    .logo img{
+        width: 100%;
+    }
+    .topinfo.boright{
+        width: 100%;
+    }
+    .topinfo h5{
+        font-size: 12px;
+    }
+    .topinfo h6{
+        font-size: 10px;
+    }
+    .cerinfo{
+        margin-left: 5px;
+    }
+
+    .topbtnpos .cleanBtn_style1 {
+        font-size: 13px;
+        padding: 19px 14px;
+        text-align: left;
+        padding-right: 31px;
+    }
+    .topbtnpos a.cleanBtn_style1 i {
+        text-align: center;
+        padding: 17px 10px;
+    }
+
+    .revCont, .revBtn{
+        margin-left: 150px;
+    }
+    .revCont h1,  .revCont h2{
+        font-size: 30px;
+        line-height: 40px;
+    }
+    .revCont h1{
+        margin-top: -90px;
+    }
+    .revCont h2{
+        margin-top:0px;
+    }
+    .revCont p{
+        width: 70%;
+        margin-bottom: 50px;
+        margin-top: 40px;
+        margin-bottom: 100px;
+    }
+    .tp-rightarrow.tparrows.default.round{
+        right: 30px !important
+    }
+    .tp-leftarrow.tparrows.default.round{
+        left: 30px !important
+    }
+    .leftinfo{
+        margin-top: 0;
+        padding-top: 50px;
+    }
+    .leftinfo{
+        border-right: none;
+    }
+    .findform {
+        margin-top: 40px;
+        padding: 0;
+    }
+    .welimg {
+        height: auto;
+        width: 100%;
+        position: relative;;
+    }
+    .iconbox1wrap {
+        padding: 117px 20px 50px 20px;
+    }
+    .logo2call, .calltoCont , .calltobtn{
+        text-align: center;
+    }
+    .servPadding {
+        padding: 0 15px 0;
+    }
+    .iconbox2{
+        padding-right: 0;
+    }
+    .servicesContact textarea{
+        margin-top: 20px;
+    }
+    .singleTest {
+        padding: 0;
+    }
+    .middelTeamimg {
+        margin-left: 0;
+        margin-right: 0;
+    }
+    .singleTeam{
+        width: 32.5%;
+    }
+    .sintemDec{
+        width: 100%;
+    }
+    .brustedby {
+        padding-left: 15px;
+        padding-top: 129px;
+    }
+    .calltoleftMenu {
+        margin: 17px 0 40px;
+    }
+    .calltoleftMenu, .resTexleft{
+        text-align: center;
+    }
+    .twitterFeedwrap{
+        padding-left: 0;
+    }
+    .footer .widget{
+        margin-bottom: 80px;
+    }
+    .footer .widgetTitle{
+        font-size: 16px !important;
+    }
+    .iconbox1 {
+        padding-right: 0;
+        text-align: center;
+    }
+    .iconbox1 i{
+        position: relative;
+        margin-bottom: 15px;
+    }
+    .iconbox1 h2::after {
+        right: 0;
+        left: 0;
+        margin: auto;
+    }
+    .iconbox2{
+        padding-left: 0;
+        padding-right: 50px;
+        text-align: center;
+    }
+    .iconbox2 h2::after {
+        margin: auto;
+        right: 0;
+    }
+    .iconbox2 i {
+        position: relative;
+        margin-bottom: 22px;
+        display: inline-block;
+    }
+    .sectionTitle {
+        text-align: center;
+    }
+    .titleBar {
+        margin: 0 auto 22px !important;
+        left: 0;
+        right: 0;
+    }
+    .sectionTitle.marginBbottom40{
+        margin-bottom: 50px;
+    }
+    .paqwrap .sectionTitle.marginBbottom40{
+        text-align: left;
+    }
+    .paqwrap .sectionTitle.marginBbottom40 .titleBar.left {
+        margin: 0 0 22px !important;
+    }
+
+    /**Home Two**/
+    .paq2wrap .sectionTitle{
+        text-align: left;
+    }
+    .paq2wrap .titleBar.left {
+        margin: 0 0 22px !important;
+    }
+    .tabtextCenter{
+        text-align: center;
+    }
+    .he2Phone p{
+        font-size: 10px;
+    }
+    .language2{
+        padding: 0 15px;
+    }
+    .headtopslogan {
+        line-height: 17px;
+        margin: 0;
+        font-size: 10px;
+    }
+    .certifi{
+        padding: 10px 30px;
+    }
+    .language2 ul{
+        top: 25px;
+    }
+    .header2 {
+        padding: 24px 0 60px;
+    }
+    .header2.fixedHeader{
+        padding-top: 35px;
+    }
+    .slCon_right .rev2Cont {
+        margin-left: -500px !important;
+    }
+    .cleanBtn_style1 {
+        font-size: 15px;
+        padding: 17px 75px 15px 14px;
+    }
+    .rev2Cont input{
+        font-size: 14px;
+    }
+    .singleFun{
+        margin-bottom: 30px;
+    }
+    .iconbox4{
+        padding-left: 0;
+        text-align: center;
+    }
+    .iconbox4 i{
+        position: relative;
+        left: 0;
+        right: 0;
+        margin: auto;
+        margin-bottom: 20px;
+    }
+    .iconbox4 h2::after,
+    .iconbox4.icon4Right h2::after{
+        left: 0;
+        right: 0;
+        margin: auto;
+    }
+    .icon4Right{
+        padding-right: 0;
+    }
+    .servicesAwesomimg img{
+        width: 100%; 
+    }
+    .callto2cont p{
+        line-height: 40px;
+        margin: 0;
+    }
+    .paq2wrap{
+        padding-left: 10px;
+        padding-right: 0;
+    }
+    .servicesBooking {
+        padding: 145px 0 145px 0;
+    }
+    .servicesContact2 textarea{
+        margin-top: 20px;
+    }
+    .callto3acsearch{
+        padding: 0;
+    }
+    .extPaddingRig {
+        padding-right: 130px;
+    }
+    #test1car{
+        padding: 0 90px;
+    }
+    .blogDec{
+        padding-right: 0;
+    }
+    .blogcont{
+        padding: 40px 10px 10px;
+    }
+    .blogMetaBott{
+        line-height: 30px;
+    }
+    .blogcont{
+        min-height: 325px;
+    }
+    .extPaddinglef{
+        padding-left: 0;
+    }
+    .singllefadds i{
+        top: 10px;
+    }
+    .singllefadds p{
+        line-height: 30px;
+    }
+    .awesomesersec{
+        overflow: hidden;
+    }
+
+    /**Home Three**/
+    .sliderSection3 .tp-bullets.simplebullets.round.hidebullets, 
+    .sliderSection3 .tp-bullets.simplebullets.round{
+        right: 34px !important;
+    }
+    .sliderSection3 .tp-rightarrow.tparrows.default.round {
+        right: 53px !important;
+        top: 42% !important;
+    }
+    .sliderSection3 .tp-leftarrow.tparrows.default.round{
+        right: 50px !important;
+        top: 50.5% !important;
+    }
+    .mobileMenu3{
+        top: 15px !important;
+    }
+    .rev3Cont h3 {
+        font-size: 50px;
+        letter-spacing: 1px;
+    }
+    .rev3Cont h4 {
+        font-size: 80px;
+        letter-spacing: 1px;
+    }
+    .rev3Cont{
+        padding: 70px 50px;
+    }
+    .home3welimg {
+        text-align: center;
+    }
+    .iconbox5{
+        text-align: center;
+    }
+    .iconbox5 h2::after{
+        left: 0;
+        right: 0;
+        margin: auto;
+    }
+    .funfactWrap {
+        padding: 0 15px;
+        margin-top: 70px;
+    }
+    .awesomeSerTab ul li a {
+        font-size: 13px;
+        padding: 7px 10px;
+    }
+    .servCont ul li{
+        width: 100%;
+    }
+    .tabConExtraPadding {
+        padding-right: 15px;
+    }
+    .contactWrap {
+        margin: 0;
+        padding: 82px 30px;
+    }
+    .extrPaddLeft {
+        padding-left: 0;
+    }
+    .header3,.header3.fixedHeader{
+        padding: 20px 0 ;
+    }
+    .widLink ul{
+        padding-left: 15px;
+    }
+
+    /**404 error**/
+    .errorIn{
+        padding: 0;
+    }
+
+    /**Single Services**/
+    .sernavExtPadd{
+        padding-right: 0;
+    }
+    .servicesNav li a{
+        line-height: 20px;
+    }
+    .findLOcationser{
+        padding: 39px 10px;
+    }
+    .contFindloc h2{
+        font-size: 18px;
+    }
+
+    /*Blog*/
+    .blogMeta{
+        height: 70px;
+    }
+    .blAuthor{
+        top: 40px;
+    }
+    .paginations{
+        padding-left: 15px;
+    }
+    .repBtn a {
+        position: relative;
+        right: 0;
+        top: 0;
+    }
+    /**Shop**/
+    .productHover a{
+        font-size: 13px;
+        padding: 18px 2px;
+    }
+    .paddingLeft22{
+        width: 100%;
+    }
+    .productStyle01{
+        margin-bottom: 30px !important;
+        min-height: 395px;
+    }
+    .woocommerce-checkout-payment ul li label img{
+        margin-left: 0;
+    }
+    .woocommerce-tabs ul.wc-tabs > li > a {
+        font-size: 12px;
+        padding: 17px 20px 0;
+    }
+    .cus_star-rating{
+        margin-bottom: 10px;
+    }
+
+    /**About**/
+    .calToactCont{
+        text-align: center;
+        margin-bottom: 30px;
+    }
+    .calToactCont h2{
+        font-size: 28px;
+    }
+    .sm_center.text-right{
+        text-align: center;
+    }
+    .serHead,
+    .priBottPera,
+    .exPaddRiFun.resTexcenter{
+        text-align: center;
+    }
+    .exPaddRiFun{
+        padding-right: 0;
+    }
+    .calltoacSoc.text-right{
+        text-align: center; 
+    }
+    .replayCoMin div.noPaddingRight{
+        padding-right: 15px !important;
+    }
+    .cart_table tbody tr td.product-thumbnail img{
+        margin-right: 10px;
+    }
+    .cart_table tbody tr td.product-thumbnail a.itemtitle {
+        margin-right: 13px;
+        position: absolute;
+        top: 40px;
+    }
+    .tabmarginBottom{
+        margin-bottom: 50px;
+    }
+    .sectionTitle p > br{
+        display: none;
+    }
+    .slCon_left {
+        margin-left: 115px !important;
+    }
+    .slCon_right {
+        margin-right: 115px !important;
+    }
+    .conInfosHolder{
+        padding-left: 0;
+    }
+    .connected-carousels.gallerySingle .prev-navigation {
+        left: 20px;
+    }
+    .connected-carousels.gallerySingle .next-navigation {
+        right: 20px;
+    }
+    .connected-carousels.gallerySingle .carousel-navigation{
+        width: 76%;
+    }
+
+}
+
+
+@media(min-width:320px) and (max-width:990px){
+    .mainNav ul {
+        position: absolute;
+        background: #fff;
+        z-index: 1000;
+        width: 100%;
+        left: 0;
+        right: 0;
+        display: none;
+        margin-top: 10px;
+        top: 5px;
+        border-top: 1px solid #ccc;
+        height: 300px;
+        overflow: scroll;
+    }
+    .header1.fixedHeader .mainNav ul{
+        top:-3px;
+    }
+    .mainNav ul li {
+        border-bottom: 1px solid #f4f7fe;
+        display: block;
+        margin: 20px 0 0;
+        position: relative;
+        text-align: center;
+        padding-bottom: 20px;
+    }
+    .mainNav ul li.has-menu-items.active a{
+        color: #055AA7;
+    }
+    .mainNav ul li.has-menu-items ul.sub-menu a{
+        color: #666666;
+    }
+    .mainNav ul li ul.sub-menu {
+        background: #f4f7fe;
+        left: 0;
+        margin-left: 0;
+        opacity: 1;
+        position: relative;
+        text-align: center;
+        top: 20px;
+        transition: none;
+        visibility: visible;
+        width: 100%;
+        z-index: 1;
+        display: none;
+        margin-top: 0;
+        height:100%;
+    }
+    .mainNav ul li:hover ul.sub-menu{
+        top: 0;
+    }
+    .header1.fixedHeader .mainNav ul ul.sub-menu li {
+        margin-top: 22px;
+    }
+    .mainNav ul li ul.sub-menu ul.sub-menu {
+        left: 0;
+        margin-left: 0;
+        opacity: 1;
+        top: 10px;
+        transition: none;
+        visibility: visible;
+        width: 100%;
+        left: 0;
+        right: 0;
+        position: relative;
+        background: #fff;
+        margin-top: 0;
+    }
+    .mainNav ul li ul.sub-menu li:last-child{
+        border-bottom: none;
+    }
+    .mainNav ul li ul.sub-menu li{
+        padding: 20px 0;
+        margin-top: 20px;
+    }
+    .mainNav ul li ul.sub-menu li:hover ul.sub-menu{
+        top: 10px;
+    }
+    .mobileMenu{
+        width: 25px;
+        height: 20px;
+        line-height: .1;
+        position: absolute;
+        right: 15px;
+        top: -22px;
+        cursor: pointer;
+    }
+    .mobileMenu span{
+        background: #333;
+        width: 100%;
+        height: 2px;
+        display: inline-block;
+    }
+    .mobileMenu.active span{
+        background: #055AA7
+    }
+    .mainNav ul {
+        position: absolute;
+        background: #fff;
+        z-index: 1000;
+        width: 100%;
+        left: 0;
+        right: 0;
+        display: none;
+        margin-top: 11px;
+        top: 14px;
+        border-top: 1px solid #eaeaea;
+    }
+    .mainNav ul li {
+        border-bottom: 1px solid #f4f7fe;
+        display: block;
+        margin: 20px 0 0;
+        position: relative;
+        text-align: center;
+        padding-bottom: 20px;
+    }
+    .mainNav ul li.has-menu-items.active a{
+        color: #055AA7;
+    }
+    .mainNav ul li.has-menu-items ul.sub-menu a{
+        color: #666666;
+    }
+    .mainNav ul li ul.sub-menu {
+        background: #f4f7fe;
+        left: 0;
+        margin-left: 0;
+        opacity: 1;
+        position: relative;
+        text-align: center;
+        top: 0;
+        transition: none;
+        visibility: visible;
+        width: 100%;
+        z-index: 1;
+        display: none;
+        margin-top: 10px;
+    }
+    .mainNav ul li:hover ul.sub-menu{
+        top: 0;
+    }
+    .mainNav ul li ul.sub-menu ul.sub-menu {
+        left: 0;
+        margin-left: 0;
+        opacity: 1;
+        top: 0;
+        transition: none;
+        visibility: visible;
+        width: 100%;
+        left: 0;
+        right: 0;
+        position: relative;
+        background: #fff;
+        margin-top: 20px;
+    }
+    .mainNav ul li ul.sub-menu li:last-child{
+        border-bottom: none;
+    }
+    .mainNav ul li ul.sub-menu li{
+        padding: 20px 0;
+    }
+    .mainNav ul li ul.sub-menu li:hover ul.sub-menu{
+        top: 0;
+    }
+    .header1.fixedHeader .mainNav ul ul.sub-menu li {
+        margin-top: 20px;
+    }
+    .mobileMenu{
+        width: 25px;
+        height: 20px;
+        line-height: .1;
+        position: absolute;
+        right: 15px;
+        top: -22px;
+        cursor: pointer;
+    }
+    .header1.fixedHeader .mobileMenu{
+        top: -40px
+    }
+    .mobileMenu span{
+        background: #333;
+        width: 100%;
+        height: 2px;
+        display: inline-block;
+    }
+    .mobileMenu.active span{
+        background: #055AA7
+    }
+
+    .mainNav2in {
+        display: none;
+        left: auto;
+        position: relative;
+        right: auto;
+        text-align: center;
+        top: 61px;
+        width: 100%;
+        z-index: 1000;
+        border-top: 1px solid #1561a9;
+        padding-bottom: 20px;
+        overflow: scroll;
+        height: 270px;
+    }
+    .header2.fixedHeader {
+        padding-top: 30px;
+        padding-bottom: 70px;
+    }
+    .header2.fixedHeader .header2leftNav ul li,
+    .header2.fixedHeader .header2RightNav ul li {
+        padding-bottom: 10px;
+    }
+    .header2.fixedHeader .header2leftNav ul li:hover ul.sub-menu,
+    .header2.fixedHeader .header2RightNav ul li:hover ul.sub-menu{
+        top: 10px;
+    }
+    .header2leftNav ul ul.sub-menu,
+    .header2RightNav ul ul.sub-menu{
+        left: 0;
+        margin-left: 0;
+        opacity: 1;
+        position: relative;
+        text-align: center;
+        top: 10px;
+        transition: none;
+        visibility: visible;
+        width: 100%;
+        z-index: 99;
+        display: none;
+    }
+    .mobileMenu2{
+        width: 25px;
+        height: 20px;
+        line-height: .1;
+        position: absolute;
+        right: 15px;
+        top: 10px;
+        cursor: pointer;
+    }
+    .mobileMenu2 span{
+        background: #fff;
+        width: 100%;
+        height: 2px;
+        display: inline-block;
+    }
+    .mobileMenu2.active span{
+        background: #EEDA01
+    }
+    .logonav2, .header2leftNav, .header2RightNav {
+        display: block;
+    }
+    .header2leftNav ul li, 
+    .header2RightNav ul li, 
+    .header2RightNav ul li {
+        display: block;
+        line-height: 0.8;
+        margin-right: 0;
+        padding: 15px 0
+    }
+    .header2leftNav ul ul.sub-menu ul.sub-menu, 
+    .header2RightNav ul ul.sub-menu ul.sub-menu {
+        display: none;
+        left: 0;
+        margin-left: 0;
+        opacity: 1;
+        position: relative;
+        right: 0;
+        top: 0;
+        visibility: visible;
+        width: 100%;
+    }
+    .header2.fixedHeader .header2leftNav ul ul.sub-menu ul.sub-menu,
+    .header2.fixedHeader .header2RightNav ul ul.sub-menu ul.sub-menu{
+        top: 0;
+    }
+    .headerlogmNav{
+        margin-left: 0;
+    }
+    .header2RightNav ul li{
+        margin-left: 0;
+    }
+    .logomobnav {
+        position: absolute;
+        left: 0;
+        top: -10px;
+    }
+    .searchhom2 {
+        display: inline;
+        margin-left: 14px;
+        position: absolute;
+        top: 10px;
+        right: 60px;
+    }
+    .mainNav2 {
+        position: relative;
+    }
+    .header2leftNav ul ul.sub-menu {
+        background: #115ea6;
+        left: auto;
+        margin: auto;
+        opacity: 1;
+        position: relative;
+        right: auto;
+        text-align: center;
+        top: 10px;
+        transition: none;
+        visibility: visible;
+        width: 100%;
+        z-index: 99;
+        display: none;
+    }
+    .header2leftNav ul li:hover ul.sub-menu{
+        top: 10px;
+    }
+    .header2leftNav ul ul.sub-menu ul.sub-menu {
+        display: block;
+        margin-right: 0;
+        opacity: 1;
+        position: relative;
+        right: 0;
+        top: 0;
+        visibility: visible;
+        width: 100%;
+        display: none;
+        background: #135089;
+    }
+    .sub-menu > li {
+        padding-top: 0 !important;
+    }
+    .header2leftNav ul ul.sub-menu li a{
+        padding: 15px 0;
+    }
+
+    .mainNav3 ul {
+        display: none;
+        position: absolute;
+        left: 0;
+        right: 0;
+        top: 60px;
+        background: #085EAD;
+        z-index: 1023;
+        text-align: center;
+        height: 250px;
+        overflow: scroll;
+    }
+    .header3.fixedHeader .mainNav3 ul li a {
+        padding-bottom: 15px;
+    }
+    .mainNav3 ul li {
+        display: block;
+        margin: 0;
+    }
+    .mainNav3 ul li a{
+        padding: 10px 0;
+    }
+    .mainNav3 ul ul.sub-menu {
+        left: 0;
+        opacity: 1;
+        position: relative;
+        top: 0;
+        transition: none;
+        visibility: visible;
+        width: 100%;
+        margin-left: 0;
+        height: 100%;
+    }
+    .header3.fixedHeader .mainNav3 ul li:hover ul.sub-menu,
+    .mainNav3 ul li:hover ul.sub-menu{
+        top: 0;
+    }
+    .mobileMenu3{
+        width: 25px;
+        height: 20px;
+        line-height: .1;
+        position: absolute;
+        right: 15px;
+        top: -40px;
+        cursor: pointer;
+    }
+    .mobileMenu3 span{
+        background: #fff;
+        width: 100%;
+        height: 2px;
+        display: inline-block;
+    }
+    .mobileMenu3.active span{
+        background: #EEDA01
+    }
+    .logoh3{
+        text-align: left;
+    }
+    .singlatPost{
+        margin-bottom: 30px;
+    }
+
+
+}
+@media(min-width:320px) and (max-width:767px){
+    .logo {
+        margin-bottom: 30px;
+        text-align: center;
+        display: block;
+    }
+    .topinfo{
+        min-height: 60px;
+    }
+    .topinfo.boright {
+        border: medium none;
+        text-align: center;
+        width: 300px;
+        margin: auto;
+        margin-bottom: 10px;
+    }
+    .topinfo i{
+        left: 20%;
+    }
+    .topbtnpos{
+        text-align: center;
+    }
+    .tp-rightarrow.tparrows.default.round{
+        right: 40% !important;
+        top: 80% !important;
+    }
+    .tp-leftarrow.tparrows.default.round{
+        left: 40% !important;
+        top: 80% !important;
+    }
+    .tp-rightarrow.default.round::after ,
+    .tp-leftarrow.default.round::before{
+        padding: 2px 11px;
+    }
+    .tparrows.default.round{
+        width: 30px;
+        height: 30px;
+    }
+    .revCont{
+        margin-left: 50px;
+        text-align: center;
+    }
+    .revCont p{
+        display: none;
+    }
+    .revCont h1, .revCont h2 {
+        font-size: 16px;
+        line-height: 30px;
+        letter-spacing: 0px;
+        margin-top: -4px;
+        text-align: left;
+        text-shadow: 1px 1px #000000
+    }
+    .revBtn{
+        margin-left: 70px;
+        margin-top: -20px;
+    }
+    .revBtn a.cleanBtn_style2{
+        height: 40px;
+        line-height: 0.8;
+        padding: 14px 40px 14px 14px;
+    }
+    .revBtn a.cleanBtn_style2 i{
+        height: 40px;
+        padding: 12px 15px;
+    }
+    .leftinfo{
+        margin-top: 0;
+        border-right: none;
+        padding-top: 100px;
+    }
+    .findform{
+        padding: 0;
+    }
+    .findform h2 {
+        line-height: 30px;
+    }
+    .findform form button {
+        position: relative;
+        width: 100%;
+        margin-bottom: 10px;
+    }
+    .iconbox1wrap{
+        padding: 0 15px;
+    }
+    .welimg{
+        position: relative;
+        width: 100%;
+        margin-bottom: 100px;
+    }
+    .iconbox1 {
+        margin-bottom: 55px;
+        padding-right: 0;
+        text-align: center;
+    }
+    .iconbox1 i{
+        position: relative;
+        margin-bottom: 10px;
+    }
+    .iconbox1 h2::after,
+    .iconbox2 h2::after{
+        left: 0;
+        right: 0;
+        margin: auto;
+    }
+    .filterNav ul li {
+        margin: 0 8px;
+        margin-bottom: 30px;
+    }
+    .calltoCont{
+        padding-left: 15px;
+    }
+    .calltobtn,.logo2call, .calltoCont{
+        text-align: center;
+    }
+    .servPadding{
+        padding: 0;
+    }
+    .sectionTitle{
+        text-align: center;
+    }
+    .sectionTitle h2{
+        line-height: 40px;
+    }
+    .iconbox2{
+        padding: 0 15px;
+        text-align: center;
+    }
+    .iconbox2 i{
+        left: 0;
+        right: 0;
+        margin: auto;
+        position: relative;
+        display: inline-block;
+        margin-bottom: 15px;
+    }
+    .servicesContact {
+        padding: 85px 15px;
+    }
+    .servicesContact textarea{
+        margin-top: 20px;
+    }
+    .singleTest{
+        padding: 0;
+    }
+    .singleTeam{
+        overflow: hidden;
+    }
+    .singleTeam, .sintemDec{
+        width: 100%;
+    }
+    .middelTeamimg {
+        margin-left: 0;
+        margin-right: 0;
+    }
+    .singlePlan{
+        margin-bottom: 30px;
+    }
+    .videoSection{
+        height: 360px;
+    }
+    .vidContent{
+        height: 220px;
+    }
+    .vidContent h2{
+        margin-bottom: 20px;
+    }
+    .vidContent h3{
+        margin-top: 20px;
+    }
+    .panelHeading a {
+        line-height: 1.5;
+        padding: 10px;
+    }
+    .paqwrap {
+        padding-right: 15px;
+    }
+    .faqaccordion .panel-title {
+        padding-left: 60px;
+        line-height: 1.7;
+    }
+    .faqaccordion .panel-title i{
+        height: 100%;
+    }
+    .brustedby{
+        padding: 0 15px;
+    }
+    .calltoleftMenu ul li a{
+        line-height: 30px;
+    }
+    .calltoleftMenu ul li::after{
+        top: 11px;
+    }
+    .calltoleftMenu ul li::after{
+        margin-right: 30px;
+    }
+    .resTexleft{
+        text-align: left;
+    }
+    .calltoleftMenu{
+        margin-bottom: 30px;
+    }
+    .calltoleftMenu ul li {
+        margin-right: 30px;
+    }
+    .calltoleftMenu ul li::after {
+        left: -20px;
+    }
+    .calltoSocial,
+    .calltoSocial a{
+        margin-left: 0;
+    }
+    .footinfText{
+        padding-left: 0;
+        text-align: center;
+    }
+    .logofoot {
+        margin-bottom: 30px;
+        margin-top: 10px;
+        text-align: center;
+    }
+    .footinfText::after{
+        background: transparent;
+    }
+    .footer .widget{
+        margin-bottom: 60px;
+    }
+    .footer .widgetTitle{
+        margin-bottom: 0;
+    }
+    .widLink ul , .fotsearchWr{
+        padding-left: 0;
+    }
+    .twitterFeedwrap {
+        padding-left: 0;
+        padding-right: 0;
+    }
+    .callTotextsocial{
+        margin-bottom:15px;
+    }
+    .panelHeading .panel-title i:before {
+        width: 10px;
+        height: 14px;
+        position: absolute;
+        top: 0;
+        bottom: 0;
+        margin: auto;
+    }
+    /**Home2**/
+    .sliderSection3 .tp-bullets.simplebullets.round.hidebullets, .sliderSection3 .tp-bullets.simplebullets.round {
+        right: 10px !important;
+    }
+    .sliderSection3 .tp-rightarrow.tparrows.default.round,
+    .sliderSection3 .tp-leftarrow.tparrows.default.round{
+        display: none !important;
+    }
+    .sliderWrap2 .tp-rightarrow.tparrows.default.round {
+        right: 15px !important;
+        top: 49% !important;
+    }
+    .sliderWrap2 .tp-leftarrow.tparrows.default.round {
+        left: 15px !important;
+        top: 49% !important;
+    } 
+    .headertop2{
+        padding: 0;
+    }
+    .he2Phone {
+        display: inline-block;
+        margin: 20px 0;
+    }
+    .language2 {
+        margin-left: 0;
+        padding: 0 10px;
+    }
+    .language2 .countryList {
+        background: #ebebeb;
+        display: none;
+        left: 0;
+        top: 30px;
+    }
+    .headtopslogan{
+        line-height: 20px;
+        margin-bottom: 10px;
+        margin-top: 15px;
+    }
+    .certifi {
+        border-left: none;
+        border-right: none;
+        color: #333;
+        letter-spacing: 1px;
+        padding: 7px 30px;
+        width: 100%;
+        text-align: center;
+    }
+    .flowSocial {
+        color: #333;
+        padding-left: 0;
+        width: 100%;
+        text-align: center;
+        margin-bottom: 30px;
+    }
+    .he2Phone, .language2{
+        width: 100%;
+        text-align: center;
+    }
+    .language2{
+        border: none;
+    }
+    .language2 .countryList {
+        left: 0;
+        margin: auto;
+        position: absolute;
+        right: 0;
+        top: 30px;
+    }
+    .header2 {
+        background: #156bbb none repeat scroll 0 0;
+        padding: 20px 0 60px;
+        z-index: 999;
+    }
+    .sliderContTit {
+        font-size: 20px;
+    }
+    .inputGroup{
+        margin-bottom: 0;
+    }
+    .rev2Cont {
+        padding: 25px;
+    }
+    .slCon_left .rev2Cont {
+        margin-left: 40px;
+    }
+    .slCon_right .rev2Cont {
+        margin-right: 40px;
+    }
+    .mobPadding{
+        padding-right: 15px !important;
+    }
+    .iconbox3wrap{
+        padding: 0;
+    }
+    .iconbox3 {
+        padding-left: 0;
+        text-align: center;
+        padding: 0 15px;
+    }
+    .iconbox3 i{
+        position: relative;
+    }
+    .iconbox3 h2::after{
+        left: 0;
+        right: 0;
+        margin: auto;
+    }
+    .singleFun{
+        margin-bottom: 10px;
+        padding-left: 0;
+        text-align: center;
+    }
+    .singleFun i {
+        position: relative;
+        left: 0;
+        right: 0;
+        margin: auto;
+        top: 0;
+    }
+    .singleFun::after{
+        border-bottom: 10px solid #ffea00;
+        border-left: none;
+    }
+    .iconbox4 {
+        min-height: 153px;
+        position: relative;
+        text-align: center;
+        padding: 0 15px;
+        margin-bottom: 50px;
+    }
+    .iconbox4 h2::after,
+    .iconbox4.icon4Right h2::after,
+    .iconbox4 i{
+        left: 0;
+        right: 0;
+        margin: auto;
+    }
+    .iconbox4 i {
+        position: relative;
+        top: -10px;
+    }
+    .servicesAwesomimg img {
+        width: 100%;
+    }
+    .callto2cont {
+        text-align: center;
+    }
+    .callto2cont p{
+        line-height: 45px;
+    }
+    .resTexcenter{
+        text-align: center;
+    }
+    .paq2wrap {
+        padding-left: 0;
+        padding-right: 0;
+        padding-top: 0;
+    }
+    .panelHeading2 a{
+        line-height: 24px;
+    }
+    .servicesBooking {
+        padding: 145px 0 145px 0;
+    }
+    .servicesContact2 textarea{
+        margin-top: 20px;
+    }
+    .secbar::after{
+        top: 0;
+    }
+    .callto3acsearch{
+        text-align: center;
+    }
+    .callto3acsearch{
+        padding: 0;
+    }
+    .extPaddingRig {
+        padding-right: 90px;
+        text-align: center;
+        overflow: hidden;
+        padding-bottom: 90px;
+    }
+    .callto3acsearch h2{
+        line-height: 35px;
+    }
+    .searchactioncal3 button{
+        position: relative;
+    }
+    #test1car{
+        padding: 0 30px 50px;
+    }
+    .spSecTitle{
+        text-align: center;
+    }
+    .housecleaninW{
+        padding: 0;
+    }
+    .cleanhousebott h3{
+        line-height: 50px;
+    }
+    .blogcont {
+        padding: 40px 0px 10px;
+    }
+    .logo3 {
+        text-align: center;
+    }
+    .caltoacSocHome2 {
+        margin-top: 30px;
+        text-align: center;
+    }
+    .foot2About{
+        padding-right: 0;
+    }
+    .extPaddinglef{
+        padding-left: 0;
+    }
+    .footerfindSer {
+        padding-left: 0;
+    }
+    .copypera2{
+        line-height: 24px;
+    }
+    .awesomesersec, .overexpwrap{
+        overflow: hidden
+    }
+    .extraResForm{
+        margin: 50px 0 0
+    }
+
+    /**Home Three**/
+    .header3.fixedHeader {
+        padding: 10px 0 10px;
+    }
+    .lanshop{
+        margin-bottom: 15px;
+    }
+    .header3{
+        text-align: center;
+        padding-bottom: 10px;
+        padding-top: 10px;
+    }
+    .rev3Cont{}
+    .rev3Cont h3 {
+        font-size: 24px;
+        letter-spacing: 0;
+    }
+    .rev3Cont h4{
+        font-size: 18px;
+        letter-spacing: 0;
+    }
+    .rev3Cont {
+        padding: 60px 15px;
+        width: 100%;
+        margin: auto;
+    }
+    .home3welimg img{
+        width: 100%;
+    }
+    .iconbox5{
+        margin-right: 0;
+        text-align: center;
+    }
+    .iconbox5 h2::after{
+        left: 0;
+        right: 0;
+        margin: auto;
+    }
+    .exPaddRiFun{
+        padding-right: 15px;
+    }
+    .SingleFun{
+        border-left: 1px solid #FFEA00;
+    }
+    .funfactWrap{
+        padding: 0 15px;
+        margin-top: 60px;
+    }
+    .SingleFun {
+        padding: 80px 20px;
+    }
+    .awesomeSerTab ul li a {
+        font-size: 12px;
+        margin-bottom: 9px;
+        padding: 5px 10px;
+    }
+    .servCont ul li{
+        width: 100%;
+    }
+    .tabConExtraPadding {
+        padding-right: 15px;
+    }
+    .cleanhousebott h4{
+        line-height: 30px;
+    }
+    .calToactCont{
+        text-align: center;
+    }
+    .calToactCont h2{
+        line-height: 50px;
+    }
+    .filterNav2 ul li {
+        display: inline-block;
+        margin: 7px 12px;
+        position: relative;
+    }
+    .contactWrap{
+        margin: 0;
+        padding: 30px 10px;
+        text-align: center;
+    }
+    .extrPaddLeft{
+        padding-left: 15px;
+    }
+    .titleBar {
+        margin: 0 auto 22px !important;
+        left: 0;
+        right: 0;
+    }
+    .copypera{
+        line-height: 20px;
+    }
+    /**404 error**/
+    .pageTitle{
+        display: inline-block;
+    }
+    .pageBreadcrumb{
+        display: inline-block;
+    }
+    .errorIn{
+        padding: 0 15px;
+    }
+    .errorIn img{
+        width: 100%;
+    }
+    .errorIn h2{
+        font-size: 30px;
+        line-height: 40px;
+    }
+    .serForm button{
+        position: relative;
+    }
+    /**Single Services**/
+    .sernavExtPadd {
+        padding-right: 15px;
+    }
+    .sectionInnerTitle h2{
+        line-height: 30px;
+    }
+    .faqaccordion{
+        margin-bottom: 50px;
+    }
+    /**Blog**/
+    .metaGroup {
+        line-height: 20px;
+    }
+    .blogMeta{
+        height: 90px;
+    }
+    .blAuthor{
+        top: 58px;
+    }
+    .blogMetaBott a{
+        line-height: 24px;
+    }
+    .blogcont {
+        padding: 40px 10px 10px;
+    }
+    .singleBlog .blogMeta{
+        height: 50px;
+    }
+    .singleBlog .blAuthor {
+        top: 20px;
+    }
+    .paginations{
+        text-align: center;
+        margin-bottom: 50px;
+    }
+    .administrator a{
+        line-height: 35px;
+    }
+    .singleComments img{
+        position: relative;
+        margin-bottom: 30px;
+    }
+    .singleComments{
+        padding-left: 0;
+    }
+    .commentsList li ul.children .singleComments {
+        margin-left: 0;
+    }
+    .repBtn a {
+        position: relative;
+        top: 0;
+    }
+    .replayCoMin .noPaddingRight{
+        padding-right: 15px !important;
+    }
+
+    /**Shop**/
+    .cart_table thead tr th:first-child{
+        padding-left: 13px;
+    }
+    .cart_table tbody tr td.product-thumbnail{
+        padding-left: 0;
+    }
+    .cart_table tbody tr td.product-thumbnail img {
+        height: 70px;
+        margin-right: 10px;
+        width: 70px;
+    }
+    .cart_table tbody tr td.product-thumbnail a.itemtitle {
+        font-size: 14px;
+        line-height: 23px;
+    }
+    .cart_table thead tr th.product-subtotal,
+    .cart_table tbody tr td.product-subtotal{
+        padding-left: 0;
+    }
+    .cart_table tbody tr td.product-quantity .quantity {
+        border: 1px solid #d0d0d0;
+        height: 38px;
+        left: -51px;
+        margin-top: 0;
+        position: absolute;
+        text-align: center;
+        top: 52px;
+        width: 122px;
+    }
+    .cart_table tbody tr td.actions .input-text{
+        width: 100%;
+        margin-bottom: 10px;
+    }
+    .cart_table tbody tr td.actions .coupon_submit{
+        margin-left: 0;
+        width: 100%;
+        margin-bottom: 10px;
+    }
+    .cart_table tbody tr td.actions .update_cart{
+        margin-left: 0;
+        width: 100%;
+    }
+    .cart_table tbody tr td{
+        padding: 20px 0;
+        position: relative;
+    }
+    .cart_table tbody tr td .amount{
+        position: absolute;
+        top: 35px;
+    }
+    .cart_totals table tr th {
+        padding-left: 0;
+        width: 105px;
+    }
+    .wc-proceed-to-checkout{
+        text-align: center;
+        margin-bottom: 50px;
+    }
+    .productStyle01 {
+        margin-bottom: 60px !important;
+    }
+    .coupon ,
+    .paddingLeft22{
+        width: 100%;
+    }
+    .loginss span a{
+        display: block;
+    }
+    .specialTitle{
+        line-height: 30px;
+    }
+    .woocommerce-shipping-fields textarea{
+        margin-bottom: 30px;
+    }
+    .woocommerce-checkout-review-order {
+        padding: 47px 0 20px;
+    }
+    .woocommerce-checkout-payment ul li label img{
+        margin-top: 10px;
+    }
+    .noPaddingRight.sidebars{
+        padding-right: 15px !important;
+    }
+    .paddingLeft30 {
+        padding-left: 15px;
+    }
+    .buttonss .mc_btn{
+        width: 47%;
+    }
+    .woocommerce-tabs ul.wc-tabs > li > a {
+        font-size: 14px;
+        margin-bottom: 4px;
+        padding: 18px 26px 0;
+    }
+    .specification_content h5{
+        line-height: 20px;
+    }
+    .specification_content ul li{
+        line-height: 24px;
+    }
+    .blog_gall_slider .carousel-indicators li {
+        height: 80px;
+        width: 100px;
+    }
+    .blog_gall_slider.carousel.slide {
+        padding-bottom: 180px;
+    }
+    .blog_gall_slider .carousel-indicators li:nth-child(2){
+        margin-right: 0;
+    }
+    .blog_gall_slider .carousel-control.left {
+        left: -5px;
+        right: auto;
+    }
+    .blog_gall_slider .carousel-control.right {
+        left: auto;
+        right: -5px;
+    }
+    .calltoAction .text-right{
+        text-align: center;
+    }
+    .cart_table tbody tr td.product-thumbnail a.itemtitle{
+        display: none;
+    }
+    .conInfosHolder{
+        padding-left: 0;
+    }
+    .conForms{
+        margin-bottom: 60px;
+    }
+    .singleInfos {
+        padding-left: 0;
+        text-align: center;
+    }
+    .singleInfos i {
+        display: inline-block;
+        margin: 0 0 20px;
+        position: relative;
+        text-align: center;
+    }
+    .connected-carousels.gallerySingle .navigation{
+        width: 60%;
+    }
+    .connected-carousels.gallerySingle .prev-navigation {
+        left: -40px;
+        z-index: 1;
+    }
+    .connected-carousels.gallerySingle .next-navigation {
+        right: -40px;
+        z-index: 1;
+    }
+    .gallDetails {
+        padding-left: 0;
+        margin-top: 50px;
+    }
+    .connected-carousels.gallerySingle .carousel-navigation li.active,
+    .connected-carousels.gallerySingle .carousel-navigation li{
+       padding: 0 3px;
+    }
+}
+
+@media(min-width:480px) and (max-width:640px){
+    .revCont, .revBtn{
+        margin-left: 160px;
+    }
+}
